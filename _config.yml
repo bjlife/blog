@@ -132,5 +132,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/bjlife/bjlife.github.io.git
+  repo: git@github.com:bjlife/bjlife.github.io.git
   branch: master
